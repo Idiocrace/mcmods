@@ -1,0 +1,1 @@
+This zip file contains all mods for the Create SMP. All mods use forge for 1.20.1 Minecraft. (Latest version create supports). Place these in your mods folder and go to the server 173.225.41.241.
